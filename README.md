@@ -12,3 +12,4 @@
 
 [Project 2: Bitcoin price prediction](https://github.com/HongPhuMagic/ML-Project-2-Bitcoin)
 * Predict Bitcoin's price using RNN and ARIMA models.
+* Webscrap data from CoinMarketCap
