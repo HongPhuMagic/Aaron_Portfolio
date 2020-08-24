@@ -1,6 +1,6 @@
 # Aaron_Portfolio
 
-![](https://github.com/HongPhuMagic/Aaron_Portfolio/blob/master/Images/dims.jpg)
+![](/Images/dims.jpg)
 
 # [Project 1: Titanic from disaster](https://github.com/HongPhuMagic/ML-Project-1-Titanic-from-Disaster)
 * Apply multiple classification machine learning algorithm;
