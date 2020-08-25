@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PORTFOLIO on Aaron Hong</title>
+    <link>https://hongphumagic.github.io/Aaron_Portfolio/portfolio/</link>
+    <description>Recent content in PORTFOLIO on Aaron Hong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Aaron Hong</copyright>
+    <lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hongphumagic.github.io/Aaron_Portfolio/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bitcoin</title>
+      <link>https://hongphumagic.github.io/Aaron_Portfolio/portfolio/sample-project/btc/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hongphumagic.github.io/Aaron_Portfolio/portfolio/sample-project/btc/</guid>
+      <description>ML-Project-2-Bitcoin Conclusion I have yet to reach to a conclusion due to my limited knowledge of ARIMA. I plan on eventually finishing this project as soon as I have gain more knowledge. I however, finished using rNN as an alternative model to predict bitcoin prices!
+Project Goal The goal of this project is to predict bitcoin (btc) prices using ARIMA (Auto Regressive Integrated Moving Average), a form of linear model, and rNN.</description>
+    </item>
+    
+    <item>
+      <title>Titanic</title>
+      <link>https://hongphumagic.github.io/Aaron_Portfolio/portfolio/sample-project/titanic/</link>
+      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hongphumagic.github.io/Aaron_Portfolio/portfolio/sample-project/titanic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

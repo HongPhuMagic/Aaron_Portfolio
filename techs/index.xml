@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Techs on Aaron Hong</title>
+    <link>https://hongphumagic.github.io/Aaron_Portfolio/techs/</link>
+    <description>Recent content in Techs on Aaron Hong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Aaron Hong</copyright>
+    <lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hongphumagic.github.io/Aaron_Portfolio/techs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Python</title>
+      <link>https://hongphumagic.github.io/Aaron_Portfolio/techs/python/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hongphumagic.github.io/Aaron_Portfolio/techs/python/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

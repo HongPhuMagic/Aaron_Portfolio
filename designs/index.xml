@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Designs on Aaron Hong</title>
+    <link>https://hongphumagic.github.io/Aaron_Portfolio/designs/</link>
+    <description>Recent content in Designs on Aaron Hong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Aaron Hong</copyright>
+    
+	<atom:link href="https://hongphumagic.github.io/Aaron_Portfolio/designs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

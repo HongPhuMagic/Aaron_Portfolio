@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RESUME on Aaron Hong</title>
+    <link>https://hongphumagic.github.io/Aaron_Portfolio/post/</link>
+    <description>Recent content in RESUME on Aaron Hong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Aaron Hong</copyright>
+    <lastBuildDate>Thu, 02 May 2019 19:49:05 +0200</lastBuildDate>
+    
+	<atom:link href="https://hongphumagic.github.io/Aaron_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://hongphumagic.github.io/Aaron_Portfolio/post/portfolio-definition/</link>
+      <pubDate>Thu, 02 May 2019 19:49:05 +0200</pubDate>
+      
+      <guid>https://hongphumagic.github.io/Aaron_Portfolio/post/portfolio-definition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manage Your Menu</title>
+      <link>https://hongphumagic.github.io/Aaron_Portfolio/post/manage-your-menu/</link>
+      <pubDate>Thu, 02 May 2019 19:06:29 +0200</pubDate>
+      
+      <guid>https://hongphumagic.github.io/Aaron_Portfolio/post/manage-your-menu/</guid>
+      <description>&lt;p&gt;Menu in the sidebar can be defined within the &lt;code&gt;config.toml&lt;/code&gt; or directly in the files.
+I prefer the config file approach, as this menu is pretty simple.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>https://hongphumagic.github.io/Aaron_Portfolio/post/shortcodes/</link>
+      <pubDate>Mon, 29 Apr 2019 16:18:12 +0100</pubDate>
+      
+      <guid>https://hongphumagic.github.io/Aaron_Portfolio/post/shortcodes/</guid>
+      <description>&lt;p&gt;Introduction of the shortcodes defined in the personal-web theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Config File</title>
+      <link>https://hongphumagic.github.io/Aaron_Portfolio/post/config-file/</link>
+      <pubDate>Sat, 20 Apr 2019 16:18:12 +0100</pubDate>
+      
+      <guid>https://hongphumagic.github.io/Aaron_Portfolio/post/config-file/</guid>
+      <description>&lt;p&gt;Here is the basic config file used for personal-web.&lt;/p&gt;
+&lt;p&gt;You can use it as a base for your website.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

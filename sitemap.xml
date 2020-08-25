@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://hongphumagic.github.io/Aaron_Portfolio/portfolio/sample-project/btc/</loc>
+    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hongphumagic.github.io/Aaron_Portfolio/</loc>
+    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hongphumagic.github.io/Aaron_Portfolio/portfolio/</loc>
+    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hongphumagic.github.io/Aaron_Portfolio/techs/python/</loc>
+    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hongphumagic.github.io/Aaron_Portfolio/techs/</loc>
+    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hongphumagic.github.io/Aaron_Portfolio/portfolio/sample-project/titanic/</loc>
+    <lastmod>2020-08-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hongphumagic.github.io/Aaron_Portfolio/post/portfolio-definition/</loc>
+    <lastmod>2019-05-02T19:49:05+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hongphumagic.github.io/Aaron_Portfolio/post/</loc>
+    <lastmod>2019-05-02T19:49:05+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hongphumagic.github.io/Aaron_Portfolio/post/manage-your-menu/</loc>
+    <lastmod>2019-05-02T19:06:29+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hongphumagic.github.io/Aaron_Portfolio/post/shortcodes/</loc>
+    <lastmod>2019-04-29T16:18:12+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hongphumagic.github.io/Aaron_Portfolio/post/config-file/</loc>
+    <lastmod>2019-04-20T16:18:12+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hongphumagic.github.io/Aaron_Portfolio/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hongphumagic.github.io/Aaron_Portfolio/designs/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>
